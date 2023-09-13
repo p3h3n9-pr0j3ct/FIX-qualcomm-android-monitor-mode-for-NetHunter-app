@@ -16,11 +16,9 @@
 - Add Custom Command
   Label :
   Launch Wifite wlan0
-      
   Command :
   ` echo -ne "\033]0;Wifite wlan0\007" && clear;wifite -i wlan0 `
-
   Send to : kali
   Exec mode : interactive
-
+  
 - Run > Launch Wifite wlan0
