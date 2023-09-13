@@ -1,4 +1,4 @@
-```sh
+
 - Copy file iwpriv /data/local/tmp
 - Open Terminal Android root
 - chmod +x /data/local/tmp/iwpriv
@@ -24,4 +24,3 @@
   Exec mode : interactive
 
 - Run > Launch Wifite wlan0
-```
