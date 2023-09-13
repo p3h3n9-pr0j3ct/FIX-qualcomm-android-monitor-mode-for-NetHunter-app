@@ -1,0 +1,1 @@
+# FIX-qualcomm-android-monitor-mode-for-NetHunter
